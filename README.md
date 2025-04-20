@@ -8,14 +8,9 @@ Participants collaborated on applying Generative AI to the problem of understand
 
 ## 🧠 Project Overview
 
-| Project Name | Theme | Team Members |
-|--------------|--------|--------------|
-| [Watt-Seer-Coach](./watt-seer-coach.md) | Personalized Energy Coach | Ashwini Apte, Rao Parasa, Suresh Srinivas |
-| [Watt-Seer-Compare](./watt-seer-compare.md) | Home vs Others | Praveen, Harshita, Naga |
-| [Watt-Seer-Household](./watt-seer-household.md) | Household Behavior Analysis | Arushi, Eric, Lan |
-| [Watt-Saver](./watt-saver.md) | Recommender for Lower Bills | Jim, Olamide, Saad |
+This is part of projects under the Watt-Seer umbrella 👇:
 
----
+[🔗 Watt-Seer Capstone Projects](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/)
 
 Each project team built an AI-powered solution using Kaggle notebooks, Gemini APIs, and open datasets, supported by guidance from Google and the Gen AI community.
 
