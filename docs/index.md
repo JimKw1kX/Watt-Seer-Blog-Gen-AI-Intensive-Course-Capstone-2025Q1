@@ -1,5 +1,5 @@
 
-# ⚡ Watt-Seer Capstone Projects
+# ⚡ Watt-Saver
 
 This Capstone Project is part of the **5-day Gen AI Intensive Course with Google**, which took place from **Monday, March 31 – Friday, April 4, 2025**.  
 Participants collaborated on applying Generative AI to the problem of understanding and optimizing residential energy consumption using real-world and simulated datasets.
@@ -36,3 +36,14 @@ In two kickoff Zoom sessions, participants introduced themselves, shared goals, 
 
 The result: a showcase of what’s possible when community, data, and Gen AI come together to solve real-world problems.
 
+
+# Detailed Implementation
+[🔗 Blog](https://jimkw1kx.github.io/blog/2015/04/20/kaggle.html)
+
+## 💻 Notebook Link
+
+[🔗Kaggle](https://www.kaggle.com/code/jimkwikx/jim-watt-saver-personalized-energy)
+
+[🔗Github](/Notebook/watt-saver-personalized-energy-jim.ipynb) 
+
+[🔗Colab](https://colab.research.google.com/drive/1_r5exsc9STtdv8GOyd5xIvDEgD5Q04iW?usp=sharing)   
