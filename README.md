@@ -38,7 +38,7 @@ The result: a showcase of what’s possible when community, data, and Gen AI com
 
 
 # Detailed Implementation
-[🔗 Blog](https://jimkw1kx.github.io/blog/2015/04/10/kaggle.html)
+[🔗 Blog](https://jimkw1kx.github.io/blog/2015/04/20/kaggle.html)
 
 ## 💻 Notebook Link
 
