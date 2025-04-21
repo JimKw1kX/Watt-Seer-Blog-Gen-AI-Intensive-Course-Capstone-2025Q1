@@ -1,7 +1,7 @@
 
 # ⚡ Watt-Saver
 
-This Capstone Project is part of the **5-day Gen AI Intensive Course with Google**, which took place from **Monday, March 31 – Friday, April 4, 2025**.  
+This is the [Gen AI Intensive Course Capstone 2025Q1 Project](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1) which is part of [5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
 Participants collaborated on applying Generative AI to the problem of understanding and optimizing residential energy consumption using real-world and simulated datasets.
 
 ---
@@ -14,7 +14,7 @@ Turn insights into action. Watt-Save uses Gemini to suggest behavior, variable v
 
 ---
 
-# Detailed Implementation
+## 🛠️ Detailed Implementation
 [🔗 Blog](https://jimkw1kx.github.io/blog/2015/04/20/kaggle.html)
 
 ## 💻 Notebook Link
@@ -29,6 +29,19 @@ Turn insights into action. Watt-Save uses Gemini to suggest behavior, variable v
 [🔗Youtube Video](https://www.youtube.com/watch?v=xchAEGdZtQw)
 
 
-# 👇 The whole Watt-Seer project:
+
+## 💡 Project Reference:
+
+> Addison Howard, Brenda Flynn, Myles O'Neill, Nate, and Polong Lin (2025).  
+> *Gen AI Intensive Course Capstone 2025Q1*.  
+> [https://kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1](https://kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1). _(Kaggle)_
+
+
+## 📖 How It Came to Be:
+
+The idea for Watt-Seer began when [Suresh Srinivas](https://www.kaggle.com/sureshsrinivas)
+posted a note in the Kaggle Discord during the Gen AI Intensive Course, inviting participants to explore AI-powered approaches to home energy efficiency. 
+
+**The whole Watt-Seer projects 👇**:
 
 [🔗 Watt-Seer Capstone Projects](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/)
