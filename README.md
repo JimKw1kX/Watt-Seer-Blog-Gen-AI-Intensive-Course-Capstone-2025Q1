@@ -37,9 +37,3 @@ posted a note in the Kaggle Discord during the Gen AI Intensive Course, inviting
 
 [🔗 Watt-Seer Capstone Projects](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/)
 
-
-## 💡 Project Reference:
-
-> Addison Howard, Brenda Flynn, Myles O'Neill, Nate, and Polong Lin (2025).  
-> *Gen AI Intensive Course Capstone 2025Q1*.  
-> [https://kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1](https://kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1). _(Kaggle)_
