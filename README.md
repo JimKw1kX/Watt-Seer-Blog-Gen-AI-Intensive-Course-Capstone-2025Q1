@@ -17,7 +17,7 @@ Turn insights into action. Watt-Save uses Gemini to suggest behavior, variable v
 
 ## 💻 Notebook Link
 
-[🔗Kaggle](https://www.kaggle.com/code/jimkwikx/jim-watt-saver-personalized-energy)
+[🔗Kaggle](https://www.kaggle.com/code/jimkwikx/watt-saver-personalized-energy)
 
 [🔗Github](/Notebook/watt-saver-personalized-energy-jim.ipynb) 
 
