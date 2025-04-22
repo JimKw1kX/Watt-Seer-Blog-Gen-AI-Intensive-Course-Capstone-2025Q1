@@ -8,8 +8,6 @@ Participants collaborated on applying Generative AI to the problem of understand
 
 ## 🧠 Project Overview
 
-This is part of projects under the Watt-Seer umbrella ⚡**Watt-Saver** 
-
 Turn insights into action. Watt-Save uses Gemini to suggest behavior, variable vs fixed rate, device, and time-shifting optimizations
 
 ---
@@ -27,13 +25,4 @@ Turn insights into action. Watt-Save uses Gemini to suggest behavior, variable v
 
 ## 🎥 Youtube Video
 [🔗Youtube Video](https://www.youtube.com/watch?v=xchAEGdZtQw)
-
-## 📖 How It Came to Be:
-
-The idea for Watt-Seer began when [Suresh Srinivas](https://www.kaggle.com/sureshsrinivas)
-posted a note in the Kaggle Discord during the Gen AI Intensive Course, inviting participants to explore AI-powered approaches to home energy efficiency. 
-
-**The whole Watt-Seer projects 👇**:
-
-[🔗 Watt-Seer Capstone Projects](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/)
 
